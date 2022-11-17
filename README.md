@@ -1,4 +1,6 @@
-** Introduction To Programming With Ruby (A Launch School Book) 
+# Introduction To Programming With Ruby (A Launch School Book) 
+
+## A Repository For The Exercises In The Book
 
 * This repo organizes the exercises in the book aforementioned into a folders structure. *
 
